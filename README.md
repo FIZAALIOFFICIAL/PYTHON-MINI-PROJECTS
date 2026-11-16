@@ -11,5 +11,6 @@ I am a 1st semester BS AI student, and I will keep adding new projects here.
 | 2 | Guess the Number Game | The computer picks a random number and you try to guess it. |
 
 Author: FIZA ALI
+<br>
 More projects coming soon...
 
