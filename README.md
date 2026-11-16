@@ -10,5 +10,6 @@ I am a 1st semester BS AI student, and I will keep adding new projects here.
 | 1 | Password Generator | Creates a strong random password of the length you choose. |
 | 2 | Guess the Number Game | The computer picks a random number and you try to guess it. |
 
+Author: FIZA ALI
 More projects coming soon...
 
